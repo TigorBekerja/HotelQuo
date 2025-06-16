@@ -17,12 +17,12 @@ HotelQuo adalah website pencarian dan pemesanan hotel yang terinspirasi dari Tra
 Selesai sebagai tugas besar mata kuliah Pemrograman Berbasis Objek (semester 5).
 
 ## Author
-Vandika — Backend
-Kaffahmi - Backend
-Indah - UI/UX Frontend
-Qaulan - Backend
-Eka - UI/UX, Frontend
-Delvia - UI/UX, Frontend
+- Vandika — Backend
+- Kaffahmi - Backend
+- Indah - UI/UX Frontend
+- Qaulan - Backend
+- Eka - UI/UX, Frontend
+- Delvia - UI/UX, Frontend
 
 ## License
 Proyek ini dikerjakan dari repository yang bersifat private (kebutuhan tugas kuliah). Proyek di-copy dan dibuat public dengan sepengetahuan dan persetujuan dari para pengembang website.
