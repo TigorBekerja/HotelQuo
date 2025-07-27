@@ -1,12 +1,12 @@
 # HotelQuo
 
-HotelQuo adalah website pencarian dan pemesanan hotel yang terinspirasi dari Traveloka. Aplikasi ini memungkinkan pengguna untuk mencari hotel berdasarkan lokasi, melihat detail hotel, dan melakukan booking.
+HotelQuo is a hotel search and booking website inspired by Traveloka. This application allows users to search for hotels by location, view detailed hotel information, and make bookings.
 
 ## Fitur Utama
-- Pencarian hotel berdasarkan kota atau nama
-- Melihat detail informasi hotel (alamat, harga, deskripsi)
-- Booking Hotel
-- Halaman login dan register pengguna
+- Search hotels by city or name
+- View detailed hotel information (address, price, description)
+- Hotel booking functionality
+- User login and registration pages
 
 ## Teknologi yang Digunakan
 - **Backend**: Java (Servlet)
@@ -14,9 +14,9 @@ HotelQuo adalah website pencarian dan pemesanan hotel yang terinspirasi dari Tra
 - **Database**: MySQL
 
 ## Status Proyek
-Selesai sebagai tugas besar mata kuliah Pemrograman Berbasis Objek (semester 5).
+Completed as a major assignment for the Object-Oriented Programming course (5th semester).
 
-## Author
+## Authors
 - Vandika — Backend
 - Kaffahmi - Backend
 - Indah - UI/UX Frontend
@@ -25,4 +25,4 @@ Selesai sebagai tugas besar mata kuliah Pemrograman Berbasis Objek (semester 5).
 - Delvia - UI/UX, Frontend
 
 ## License
-Proyek ini dikerjakan dari repository yang bersifat private (kebutuhan tugas kuliah). Proyek di-copy dan dibuat public dengan sepengetahuan dan persetujuan dari para pengembang website.
+This project was originally developed in a private repository for academic purposes. It has been copied and made public with the knowledge and consent of all website developers involved.
