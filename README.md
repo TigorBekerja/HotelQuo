@@ -2,18 +2,18 @@
 
 HotelQuo is a hotel search and booking website inspired by Traveloka. This application allows users to search for hotels by location, view detailed hotel information, and make bookings.
 
-## Fitur Utama
+## Key Features
 - Search hotels by city or name
 - View detailed hotel information (address, price, description)
 - Hotel booking functionality
 - User login and registration pages
 
-## Teknologi yang Digunakan
+## Technologies Used
 - **Backend**: Java (Servlet)
 - **Frontend**: JSP (Java Server Pages), HTML, CSS
 - **Database**: MySQL
 
-## Status Proyek
+## Project Status
 Completed as a major assignment for the Object-Oriented Programming course (5th semester).
 
 ## Authors
